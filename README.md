@@ -8,10 +8,11 @@ The goal is to identify key factors that influence churn and provide insights to
 "Dataset"
 
 The dataset includes the following columns:
-Customer Details: Customer ID, Gender, Senior Citizen status, Partner, Dependents
-Service Usage: Tenure, Phone Service, Multiple Lines, Internet Service, Online Security, Online Backup, Device Protection, Tech Support, Streaming TV, Streaming Movies
-Subscription Details: Contract Type, Paperless Billing, Payment Method, Monthly Charges, Total Charges
-Churn: Indicates whether the customer has churned
+
+"Customer Details": Customer ID, Gender, Senior Citizen status, Partner, Dependents
+"Service Usage": Tenure, Phone Service, Multiple Lines, Internet Service, Online Security, Online Backup, Device Protection, Tech Support, Streaming TV, Streaming Movies
+"Subscription Details": Contract Type, Paperless Billing, Payment Method, Monthly Charges, Total Charges
+"Churn": Indicates whether the customer has churned
 
 "Data Processing"
 
@@ -21,14 +22,13 @@ Checked for duplicates and verified data consistency
 
 "Exploratory Data Analysis (EDA)"
 
-Churn Rate: 26.54% of customers have churned
-Demographic Trends: Senior citizens show a higher churn rate
-Subscription Insights: Customers with month-to-month contracts are more likely to churn than those with yearly contracts
-Service Usage Impact:
-Fiber optic users have a higher churn rate compared to DSL users
+Churn Rate:   26.54% of customers have churned
+Demographic Trends:   Senior citizens show a higher churn rate
+Subscription Insights:   Customers with month-to-month contracts are more likely to churn than those with yearly contracts
+Service Usage Impact:  Fiber optic users have a higher churn rate compared to DSL users
 Lack of online security, tech support, and device protection increases churn likelihood
 Customers without online backup or streaming subscriptions also show higher churn tendencies
-Payment Method Impact: Customers using electronic checks are more likely to churn
+Payment Method Impact:   Customers using electronic checks are more likely to churn
 
 "Visualizations"
 
