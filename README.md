@@ -10,6 +10,7 @@ The goal is to identify key factors that influence churn and provide insights to
 The dataset includes the following columns:  
 "Customer Details": Customer ID, Gender, Senior Citizen status, Partner, Dependents    
 "Service Usage":   Tenure, Phone Service, Multiple Lines, Internet Service, Online Security, Online Backup, Device Protection, Tech Support, Streaming TV, Streaming Movies  
+
 "Subscription Details":   Contract Type, Paperless Billing, Payment Method, Monthly Charges, Total Charges  
 "Churn":   Indicates whether the customer has churned  
 
